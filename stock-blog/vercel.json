@@ -1,6 +1,4 @@
 {
-  "build": {
-    "command": "npx hexo generate",
-    "output": "public"
-  }
+  "buildCommand": "npm run build",
+  "outputDirectory": "public"
 }
