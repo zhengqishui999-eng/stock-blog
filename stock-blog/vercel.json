@@ -1,0 +1,7 @@
+{
+  "build": {
+    "dist": "public",
+    "cmd": "npx hexo generate"
+  },
+  "output": "public"
+}
